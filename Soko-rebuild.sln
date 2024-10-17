@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soko_rebuild", "Soko-rebuild\Soko_rebuild.csproj", "{DB8636FF-C240-42E8-98B6-3145D93061CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8636FF-C240-42E8-98B6-3145D93061CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8636FF-C240-42E8-98B6-3145D93061CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8636FF-C240-42E8-98B6-3145D93061CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8636FF-C240-42E8-98B6-3145D93061CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E91201D-F2F3-4331-97A5-6B1CC61808AA}
+	EndGlobalSection
+EndGlobal
